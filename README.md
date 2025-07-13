@@ -405,11 +405,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Website**: [https://epicchain.org](https://epicchain.org)
-- **Documentation**: [https://docs.epicchain.org](https://docs.epicchain.org)
+- **Website**: [https://epic-chain.org](https://epic-chain.org)
+- **Documentation**: [https://epic-chain.org/docs/getting-started](https://epic-chain.org/docs/getting-started)
 - **GitHub**: [https://github.com/EpicChainLabs](https://github.com/EpicChainLabs)
 - **Twitter**: [@EpicChainLabs](https://twitter.com/EpicChainLabs)
-- **Telegram**: [EpicChain Community](https://t.me/epicchain)
+- **Telegram**: [EpicChain Community](https://t.me/epicchainlabs)
 
 ## ⚠️ Disclaimer
 
@@ -420,8 +420,8 @@ This token is designed for presale purposes. Please ensure you understand the to
 For support and questions:
 
 - **GitHub Issues**: [Create an issue](https://github.com/epicchainlabs/epicstarter-token/issues)
-- **Telegram**: [EpicChain Community](https://t.me/epicchain)
-- **Email**: support@epicchain.org
+- **Telegram**: [EpicChain Community](https://t.me/epicchainlabs)
+- **Email**: support@epic-chain.org
 
 ---
 
